@@ -24,7 +24,7 @@ metadata:
     roost.ai/fitness.git-repo-name: voting_app
     roost.ai/fitness.git-org: roost-io
     roost.ai/fitness.git-branch: ingress
-    roost.ai/fitness.git-test-path: ballot.test.test.yaml
+    roost.ai/fitness.git-test-path: "ballot/test/test.yaml"
     roost.ai/fitness.test-type: artillery
     # roost.ai/fitness.artillery-env: "prod"  
 spec:
